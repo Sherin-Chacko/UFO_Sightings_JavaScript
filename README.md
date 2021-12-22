@@ -16,5 +16,9 @@ PURPOSE:
 
 A) Appearance of filters when the html page opens:
 
+<img width="1281" alt="Screen Shot 2021-12-21 at 11 36 35 PM" src="https://user-images.githubusercontent.com/91294352/147036341-506dc280-876c-4539-806f-11931c2acf17.png">
+
+B) Appearance when filters (date) is applied:
+
 
 
