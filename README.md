@@ -22,5 +22,7 @@ B) Appearance when filters (date) is applied:
 
 <img width="1279" alt="Screen Shot 2021-12-21 at 11 40 49 PM" src="https://user-images.githubusercontent.com/91294352/147036747-549fba0f-ba02-4e4f-af82-a73d50c9c938.png">
 
-C) Appearance when filter (country) is selected:
+C) Appearance when filter (city named el cajon) is selected:
+
+
 
