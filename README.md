@@ -32,6 +32,10 @@ When selecting the criteria for the filter, only lower case is acceptable. The f
 ## 4) RECOMMENDATIONS: 
       A) The filter function should be changed to accomodate lower and upper case letters as well. 
       B) The filter function should include date to be represented in months also. Typing 1/2010 does not yield any result.
+
+      
+
+      
       
 
 
